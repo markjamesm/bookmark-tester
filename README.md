@@ -3,7 +3,7 @@
  [![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg)](https://swift.org)
  [![License](https://img.shields.io/badge/License-GPL-red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Bookmark tester is a broken link checker designed to read HTML bookmark files from Chrome, Firefox, Chromium, and other browsers with an export to HTML feature.
+Bookmark tester is a broken link checker designed to read HTML bookmark files from Chrome, Firefox, Chromium, and other browsers with an export to HTML feature. Part of a [guide I wrote here](https://markjames.dev/2020-04-20-bookmark-dead-link-checker-swift/).
 
 ## Features
 
